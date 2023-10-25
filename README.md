@@ -1,11 +1,11 @@
 # Instagram-User-Analytics
 
 ## Table of content
-- [Project Description](Project-description)
-- [Dataset](Data-source)
-- [Tools](Tools)
-- [Data Analysis](Data-Analysis)
-- [Conclusion](conclusion)
+- [Project Description](#Project-description)
+- [Dataset](#Data-source)
+- [Tools](#Tools)
+- [Data Analysis](#Data-Analysis)
+- [Conclusion](#conclusion)
   
 ### Project description
 This project is on Instagram users in which we find their activities and usage. This helps improve and develop the user
